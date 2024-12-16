@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #3748e7;
+}
+
+#entorno {
+    display: block;
+    margin: 0px auto;
+    background-color: #fff;
+    border: 2px solid #ccc;
+}
+
+#fondo {
+    opacity: 0.3;
+}
+
+#tiempo-restante {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.movil {
+    cursor: pointer;
+}
+
+image {
+    pointer-events: all;
+}
